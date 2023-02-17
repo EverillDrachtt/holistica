@@ -1,0 +1,86 @@
+* {
+  margin: 0px;
+}
+
+body{
+    font-family: 'Cantata One', serif;
+    background-color: #FFFFFF;
+    color:#000000;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  
+  h2 {
+    text-align:justify;
+  }
+  
+  img:hover {
+    opacity: 0.2;
+  }
+  
+  a {
+    text-decoration: none;
+    color:#000000;
+  }
+  
+  a:hover {
+    text-decoration:dashed;
+    color:darkgoldenrod;
+  }
+  
+  span {
+    padding-right: 50px;
+  }
+  
+  .promotion {
+    background-color:#cca792;
+    padding-top: 0.5px;
+    padding-bottom: 0.5px;
+    font-size: 15px;
+   text-align: center;
+   color: #fefcf7;
+   font-family: 'open sans', sans-serif;
+  }
+  
+  .logo {
+    background-color:#fefcf7;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-size: 60px;
+   text-align: center;
+   font-family: 'DM Serif Text', serif;
+  }
+  
+  .menu {
+    background-color:#fefcf7;
+    font-size: 15px;
+   text-align: center;
+   font-family: 'open sans', sans-serif;
+   padding-top: 2px;
+   padding-bottom: 15px;
+  }
+  
+  .texte {
+    background-color:#fefcf7;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  
+  .paragraphe {
+    text-align: justify;
+    width: 600px;
+  }
+
+  .galerie {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap:15px;
+    justify-content: center;
+    margin-top: 0px;
+    padding-top: 0px;
+
+  }
+  
+  
